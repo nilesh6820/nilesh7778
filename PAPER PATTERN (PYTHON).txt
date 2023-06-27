@@ -1,0 +1,1 @@
+print ("Ye duniya ko ye hua kya kahi rakh he to kahi dhua dhua")
